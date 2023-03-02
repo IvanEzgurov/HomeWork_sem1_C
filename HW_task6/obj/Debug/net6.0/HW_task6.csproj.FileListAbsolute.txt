@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem1\HW_task6\bin\Debug\net6.0\HW_task6.exe
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem1\HW_task6\bin\Debug\net6.0\HW_task6.deps.json
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem1\HW_task6\bin\Debug\net6.0\HW_task6.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem1\HW_task6\bin\Debug\net6.0\HW_task6.dll
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem1\HW_task6\bin\Debug\net6.0\HW_task6.pdb
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem1\HW_task6\obj\Debug\net6.0\HW_task6.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem1\HW_task6\obj\Debug\net6.0\HW_task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem1\HW_task6\obj\Debug\net6.0\HW_task6.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem1\HW_task6\obj\Debug\net6.0\HW_task6.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem1\HW_task6\obj\Debug\net6.0\HW_task6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem1\HW_task6\obj\Debug\net6.0\HW_task6.dll
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem1\HW_task6\obj\Debug\net6.0\refint\HW_task6.dll
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem1\HW_task6\obj\Debug\net6.0\HW_task6.pdb
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem1\HW_task6\obj\Debug\net6.0\HW_task6.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem1\HW_task6\obj\Debug\net6.0\ref\HW_task6.dll
